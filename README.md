@@ -24,8 +24,9 @@ Linux下的C语言开发学习
     - gcc
     -  该步骤生成的文件后缀 .out
 
-	参考自：[https://www.tianmaying.com/tutorial/GCC](https://www.tianmaying.com/tutorial/GCC)
-	 [https://www.cnblogs.com/kelamoyujuzhen/p/9411007.html](https://www.cnblogs.com/kelamoyujuzhen/p/9411007.html)
+**参考自**
+- [https://www.tianmaying.com/tutorial/GCC](https://www.tianmaying.com/tutorial/GCC
+- [https://www.cnblogs.com/kelamoyujuzhen/p/9411007.html](https://www.cnblogs.com/kelamoyujuzhen/p/9411007.html)
 
 
 ​	
